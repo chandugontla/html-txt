@@ -1,4 +1,0 @@
-name=chandu
-age=25
-city=kanigiri
-
